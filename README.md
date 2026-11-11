@@ -13,12 +13,6 @@ Senior Android engineer in Ljubljana, Slovenia. I build Kotlin and Jetpack Compo
 
 Kotlin · Jetpack Compose · Coroutines & Flow · MVVM / MVI · Clean Architecture · Modularization · Hilt / Koin · Room · Retrofit · Firebase · CI/CD (Bitrise, GitHub Actions) · Kotlin Multiplatform
 
-### Worth a look
-
-- [KeyboarAwareSample](https://github.com/Kuglll/KeyboarAwareSample): code sample for my Medium article
-- [Tarokanizer-compose-multiplatform](https://github.com/Kuglll/Tarokanizer-compose-multiplatform): Tarok scoreboard app built with Compose Multiplatform
-- [KMM-Example](https://github.com/Kuglll/KMM-Example): Kotlin Multiplatform sample project
-
 ### Work with me
 
 I take on freelance Android projects: app audits, Compose migrations, subscriptions and release quality.
